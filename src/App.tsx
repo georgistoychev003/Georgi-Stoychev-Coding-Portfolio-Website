@@ -93,7 +93,7 @@ function App() {
               transition={{ delay: 0.8 }}
             >
               <motion.a 
-                href="https://jmp.sh/s/lGYOxCmBQqzzRTPrtBDA" 
+                href="https://www.dropbox.com/scl/fi/qg9nfbenqkjyigh97c20f/Georgi-Stoychev-CV.pdf?rlkey=g2dc9rxex7fm0922ax78y9999&st=iqy6c70d&dl=0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-500 to-purple-500 rounded-lg transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25"
